@@ -1,4 +1,7 @@
 # Datamining-with-python
 
-Study with python for data mining  
-Use jupyter notebook
+Python and Data Mining
+Using Jupiter Notebook
+
+Source code from Python basic concept to advanced course
+Data mining source code
